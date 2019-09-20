@@ -6,6 +6,8 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 import practicaltwo.StatisticsCalculator;
 
+// TODO: Make sure that you understand the purpose of each test case
+
 /**
  * A JUnit test suite for StatisticsCalculator.
  *
@@ -13,6 +15,8 @@ import practicaltwo.StatisticsCalculator;
  */
 
 public class TestStatisticsCalculator {
+
+  // TODO: Make sure that you understand why DELTA is needed in the tests
 
   /** All double values in assertions much be very close to each other.
    *  Please see the following web site for more details:
