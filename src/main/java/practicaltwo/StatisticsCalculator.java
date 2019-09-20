@@ -57,6 +57,7 @@ public class StatisticsCalculator {
     Double arithmeticMean = StatisticsCalculator.calculateArithmeticMean(values);
     Double variance = StatisticsCalculator.calculateVariance(values);
     Double standardDeviation = StatisticsCalculator.calculateStandardDeviation(values);
+    // TODO: Make sure that you added the correct import above ^^^ so that this works
     DecimalFormat formatter = new DecimalFormat("#.00");
     System.out.println("Displaying the output with two decimal places.");
     System.out.println("This is the arithmetic mean: " + formatter.format(arithmeticMean));
