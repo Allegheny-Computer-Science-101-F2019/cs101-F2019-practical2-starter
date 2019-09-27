@@ -51,13 +51,6 @@ expected output for calls to all of the methods that compute summary
 statistics. More details about the GatorGrader checks are included later in
 this document and in the carefully formatted assignment sheet.
 
-The source code in the `Swap.java` file must also pass additional tests set by
-the [GatorGrader tool](https://github.com/gkapfham/gatorgrader). GatorGrader
-will also check that your program performs the correct computation and produces
-the expected output for a single call of the `swap` method. More details about
-the GatorGrader checks are included later in this document and in the carefully
-formatted assignment sheet.
-
 ## Continuous Learning
 
 If you have not done so already, please read all of the relevant [GitHub
